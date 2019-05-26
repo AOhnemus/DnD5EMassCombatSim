@@ -1,0 +1,4 @@
+Name,HP,STR,DEX,CON,INT,WIS,CHA,Move
+Test,20,10,14,16,18,13,15,30
+Peasant,4,10,10,10,10,10,10,30
+DeathChicken,100,20,16,18,4,10,8,40
